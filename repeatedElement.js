@@ -10,4 +10,4 @@ function repeatedElement(arr){
     return -1;
 }
 // console.log(repeatedElement([1,2,3,4,4]));
-repeatedElement([1,3,4,2,2]);
+repeatedElement([1,3,4,2,2])
